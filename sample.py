@@ -21,6 +21,8 @@ generator is exhasuted. So you can use the values from the generator only once.
 That is why, when we need an infinite series, we use "while True:" so in this example we will get a prime
 number as along as we call next on the generator function.
 
+## We can even pass values to the generators:
+>
 """
 #/*******************************************************/
 # Function: getPrimes(start)
